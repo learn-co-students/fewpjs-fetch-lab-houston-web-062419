@@ -1,0 +1,12 @@
+{ "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.maxVisibleSuggestions": 4,
+    "editor.suggest.shareSuggestSelections": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.acceptSuggestionOnEnter": "smart"
+}
